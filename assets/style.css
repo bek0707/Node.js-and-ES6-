@@ -19,6 +19,7 @@ body {
 .top,
 .bottom {
   background:rgb(116, 116, 221);
+  -webkit-print-color-adjust: exact;
 }
 
 .middle {
